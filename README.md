@@ -10,9 +10,10 @@ Aplicación web para organizar proyectos en pizarras separadas, con nodos visual
 - Línea de tiempo con formulario para múltiples eventos/periodos con fecha.
 - Redimensionado manual de nodos (drag en esquina inferior derecha).
 - Redimensionado de pildoras de **notas** y **timeline** con botones `A-` / `A+`.
+- Edición directa en vivo de notas y pildoras del timeline (evento/periodo).
 - Conexiones rectas entre nodos (modo **Conectar**).
-- Importación de **JSON y TSV** desde el botón `Importar JSON/TSV`.
-- Exportación de JSON de la pizarra activa.
+- Importación de **JSON y TSV** desde el botón `Importar JSON/TSV` (pegado directo).
+- Exportación de JSON de la pizarra activa (descarga de archivo `.json`).
 - Pan (`Shift + arrastrar`) y zoom (rueda).
 - Persistencia en `localStorage`.
 
