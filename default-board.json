@@ -1,0 +1,302 @@
+{
+  "name": "Criminología · Esquema UMBRAL (sin asignaturas) · v5",
+  "nodes": [
+    {
+      "id": "PF_G",
+      "type": "note",
+      "title": "PF · Propósito formativo general",
+      "x": 80,
+      "y": 60,
+      "width": 560,
+      "height": 260,
+      "pillScale": 1.1,
+      "pillColor": "#ffd54f",
+      "data": {
+        "semanticType": "proposito_formativo_general",
+        "text": "Formar profesionales capaces de comprender el fenómeno delictivo y la conducta antisocial en su complejidad humana, social y jurídica; integrar conocimiento científico con criterios éticos y jurídicos; y orientar decisiones de prevención, intervención y evaluación hacia la justicia, la prevención del daño y el bien común."
+      }
+    },
+    {
+      "id": "PF1",
+      "type": "note",
+      "title": "PF 1º · Despertar",
+      "x": 80,
+      "y": 350,
+      "width": 560,
+      "height": 220,
+      "pillScale": 1,
+      "pillColor": "#ffd54f",
+      "data": {
+        "semanticType": "proposito_formativo_1",
+        "text": "Adquirir una mirada criminológica integral y fundamentada: comprender el delito y la conducta antisocial como fenómenos humanos y sociales complejos, evitando reduccionismos y enfoques exclusivamente técnicos o normativos."
+      }
+    },
+    {
+      "id": "PF2",
+      "type": "note",
+      "title": "PF 2º · Descubrir",
+      "x": 80,
+      "y": 590,
+      "width": 560,
+      "height": 220,
+      "pillScale": 1,
+      "pillColor": "#ffd54f",
+      "data": {
+        "semanticType": "proposito_formativo_2",
+        "text": "Profundizar en la comprensión del delito y la conducta antisocial como realidades complejas, relacionales y contextualizadas: avanzar hacia un análisis estructurado de causas, dinámicas y manifestaciones."
+      }
+    },
+    {
+      "id": "PF3",
+      "type": "note",
+      "title": "PF 3º · Reflexionar",
+      "x": 80,
+      "y": 830,
+      "width": 560,
+      "height": 240,
+      "pillScale": 1,
+      "pillColor": "#ffd54f",
+      "data": {
+        "semanticType": "proposito_formativo_3",
+        "text": "Desarrollar un criterio criminológico ético y socialmente responsable: valorar críticamente consecuencias del delito y respuestas institucionales/comunitarias (justicia, proporcionalidad, legalidad y derechos)."
+      }
+    },
+    {
+      "id": "PF4",
+      "type": "note",
+      "title": "PF 4º · Decidir",
+      "x": 80,
+      "y": 1100,
+      "width": 560,
+      "height": 240,
+      "pillScale": 1,
+      "pillColor": "#ffd54f",
+      "data": {
+        "semanticType": "proposito_formativo_4",
+        "text": "Consolidar una identidad profesional criminológica responsable: integrar saberes y criterios éticos; fundamentar decisiones en contextos reales orientadas a justicia, prevención del daño y bien común."
+      }
+    },
+    {
+      "id": "V_DELITO",
+      "type": "note",
+      "title": "Vertebrador · Delito",
+      "x": 700,
+      "y": 260,
+      "width": 380,
+      "height": 170,
+      "pillScale": 1,
+      "pillColor": "#90caf9",
+      "data": {
+        "semanticType": "vertebrador",
+        "text": "Objeto de estudio: Delito. Eje para organizar el análisis criminológico del delito (definición sociojurídica, variabilidad histórica, criminalización y explicación del fenómeno)."
+      }
+    },
+    {
+      "id": "V_DELINCUENTE",
+      "type": "note",
+      "title": "Vertebrador · Delincuente",
+      "x": 700,
+      "y": 460,
+      "width": 380,
+      "height": 170,
+      "pillScale": 1,
+      "pillColor": "#90caf9",
+      "data": {
+        "semanticType": "vertebrador",
+        "text": "Objeto de estudio: Delincuente. Eje para comprender al infractor desde una mirada explicativa (no moralizante), y la conducta delictiva como proceso y trayectoria."
+      }
+    },
+    {
+      "id": "V_VICTIMA",
+      "type": "note",
+      "title": "Vertebrador · Víctima",
+      "x": 700,
+      "y": 660,
+      "width": 380,
+      "height": 170,
+      "pillScale": 1,
+      "pillColor": "#90caf9",
+      "data": {
+        "semanticType": "vertebrador",
+        "text": "Objeto de estudio: Víctima. Eje para comprender victimización, impacto, vulnerabilidad, revictimización y calidad de las respuestas institucionales."
+      }
+    },
+    {
+      "id": "V_CONTROL",
+      "type": "note",
+      "title": "Vertebrador · Control social",
+      "x": 700,
+      "y": 860,
+      "width": 380,
+      "height": 190,
+      "pillScale": 1,
+      "pillColor": "#90caf9",
+      "data": {
+        "semanticType": "vertebrador",
+        "text": "Objeto de estudio: Control social. Eje para analizar mecanismos formales e informales, prevención vs reacción punitiva y límites ético-jurídicos del control."
+      }
+    },
+    {
+      "id": "CU1",
+      "type": "note",
+      "title": "CU1 · Delito como construcción sociojurídica",
+      "x": 1120,
+      "y": 180,
+      "width": 520,
+      "height": 230,
+      "pillScale": 1,
+      "pillColor": "#ff8a80",
+      "data": {
+        "semanticType": "concepto_umbral",
+        "tags": ["Delito"],
+        "text": "Comprender que el delito no es natural ni inmutable: es una categoría jurídica y una construcción social e histórica (criminalización, selección penal, cambio normativo)."
+      }
+    },
+    {
+      "id": "CU2",
+      "type": "note",
+      "title": "CU2 · Fenómeno delictivo complejo y multicausal",
+      "x": 1120,
+      "y": 430,
+      "width": 520,
+      "height": 220,
+      "pillScale": 1,
+      "pillColor": "#ff8a80",
+      "data": {
+        "semanticType": "concepto_umbral",
+        "tags": ["Delito"],
+        "text": "Abandonar explicaciones simples: el delito surge de la interacción de factores individuales, sociales, económicos, culturales y situacionales."
+      }
+    },
+    {
+      "id": "CU3",
+      "type": "note",
+      "title": "CU3 · Delincuente explicable, no solo culpable",
+      "x": 1120,
+      "y": 690,
+      "width": 520,
+      "height": 230,
+      "pillScale": 1,
+      "pillColor": "#ff8a80",
+      "data": {
+        "semanticType": "concepto_umbral",
+        "tags": ["Delincuente"],
+        "text": "Distinguir explicación criminológica y responsabilidad jurídica: analizar científicamente la conducta sin reducirla a un juicio moral."
+      }
+    },
+    {
+      "id": "CU4",
+      "type": "note",
+      "title": "CU4 · Conducta delictiva como trayectorias y procesos",
+      "x": 1120,
+      "y": 950,
+      "width": 520,
+      "height": 240,
+      "pillScale": 1,
+      "pillColor": "#ff8a80",
+      "data": {
+        "semanticType": "concepto_umbral",
+        "tags": ["Delincuente"],
+        "text": "Entender el delito como fenómeno dinámico: trayectorias vitales y procesos (socialización, aprendizaje, exclusión, oportunidades), no hechos aislados."
+      }
+    },
+    {
+      "id": "CU5",
+      "type": "note",
+      "title": "CU5 · Victimización como fenómeno central",
+      "x": 1680,
+      "y": 520,
+      "width": 520,
+      "height": 240,
+      "pillScale": 1,
+      "pillColor": "#b39ddb",
+      "data": {
+        "semanticType": "concepto_umbral",
+        "tags": ["Víctima"],
+        "text": "La victimización es central para comprender el delito: patrones, vulnerabilidad, impacto, revictimización y calidad de la respuesta institucional."
+      }
+    },
+    {
+      "id": "CU6",
+      "type": "note",
+      "title": "CU6 · Daño y riesgo como categorías criminológicas",
+      "x": 1680,
+      "y": 780,
+      "width": 520,
+      "height": 230,
+      "pillScale": 1,
+      "pillColor": "#b39ddb",
+      "data": {
+        "semanticType": "concepto_umbral",
+        "tags": ["Víctima", "Prevención"],
+        "text": "Analizar en términos de daño, riesgo de victimización y prevención; diferenciar riesgo objetivo y percepción social del riesgo."
+      }
+    },
+    {
+      "id": "CU7",
+      "type": "note",
+      "title": "CU7 · Control social como sistema complejo",
+      "x": 1680,
+      "y": 1060,
+      "width": 520,
+      "height": 240,
+      "pillScale": 1,
+      "pillColor": "#80cbc4",
+      "data": {
+        "semanticType": "concepto_umbral",
+        "tags": ["Control social"],
+        "text": "Comprender el control social como sistema de mecanismos formales e informales que interactúan regulando conductas y respuestas al delito."
+      }
+    },
+    {
+      "id": "CU8",
+      "type": "note",
+      "title": "CU8 · Prevención del delito vs reacción punitiva",
+      "x": 1680,
+      "y": 1320,
+      "width": 520,
+      "height": 230,
+      "pillScale": 1,
+      "pillColor": "#80cbc4",
+      "data": {
+        "semanticType": "concepto_umbral",
+        "tags": ["Control social", "Prevención"],
+        "text": "Orientar la intervención a prevención y reducción del daño, no solo castigo. Priorizar estrategias basadas en evidencia."
+      }
+    },
+    {
+      "id": "CU9",
+      "type": "note",
+      "title": "CU9 · Límites éticos y jurídicos del control social",
+      "x": 1680,
+      "y": 1570,
+      "width": 520,
+      "height": 240,
+      "pillScale": 1,
+      "pillColor": "#80cbc4",
+      "data": {
+        "semanticType": "concepto_umbral",
+        "tags": ["Control social", "Ética"],
+        "text": "Toda intervención tiene límites: dignidad, derechos, legalidad y proporcionalidad, incluso si una medida resulta eficaz."
+      }
+    }
+  ],
+  "connections": [
+    { "id": "C_PFG_PF1", "from": "PF_G", "to": "PF1" },
+    { "id": "C_PFG_PF2", "from": "PF_G", "to": "PF2" },
+    { "id": "C_PFG_PF3", "from": "PF_G", "to": "PF3" },
+    { "id": "C_PFG_PF4", "from": "PF_G", "to": "PF4" },
+    { "id": "C_PF1_PF2", "from": "PF1", "to": "PF2" },
+    { "id": "C_PF2_PF3", "from": "PF2", "to": "PF3" },
+    { "id": "C_PF3_PF4", "from": "PF3", "to": "PF4" },
+    { "id": "C_CU1_VD", "from": "CU1", "to": "V_DELITO" },
+    { "id": "C_CU2_VD", "from": "CU2", "to": "V_DELITO" },
+    { "id": "C_CU3_VDE", "from": "CU3", "to": "V_DELINCUENTE" },
+    { "id": "C_CU4_VDE", "from": "CU4", "to": "V_DELINCUENTE" },
+    { "id": "C_CU5_VV", "from": "CU5", "to": "V_VICTIMA" },
+    { "id": "C_CU6_VV", "from": "CU6", "to": "V_VICTIMA" },
+    { "id": "C_CU7_VC", "from": "CU7", "to": "V_CONTROL" },
+    { "id": "C_CU8_VC", "from": "CU8", "to": "V_CONTROL" },
+    { "id": "C_CU9_VC", "from": "CU9", "to": "V_CONTROL" }
+  ]
+}
